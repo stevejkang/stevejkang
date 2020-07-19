@@ -1,5 +1,8 @@
 ## Steve Juneyoung Kang @stevejkang
 
+[![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/stevejkang)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang)](https://github.com/stevejkang/stevejkang)
+
 👋 Hello! I am a junior back-end developer, who working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service well aware of cloud infrastructure such as AWS.
 
 ### 💼 Career
@@ -16,3 +19,5 @@
 - linkedin: https://www.linkedin.com/in/iam-juneyoung
 - facebook: https://www.facebook.com/stevejkang
 - email: iam@juneyoung.io
+
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/stevejkang)
