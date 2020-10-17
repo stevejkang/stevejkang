@@ -11,6 +11,7 @@
 
 ### 💼 Career
 - Developer at [**TeamO2**](https://carmore.kr/): 2019.12 ~ Current
+  - Alternative Military Service: 2020.09 ~ Current
 - Development Manager at [**LOEKOREA**](http://loekorea.com/): 2019.06 ~ 2019.11
 - Backend Developer at [**HIPHOPER**](https://www.hiphoper.com/): 2018.12 ~ 2019.05
 
