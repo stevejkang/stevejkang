@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-stevejkang/)](https://www.linkedin.com/in/iam-stevejkang/)
 [![Gmail](https://img.shields.io/badge/-iam@juneyoung.io-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:iam@juneyoung.io)](mailto:iam@juneyoung.io)
 [![Facebook](https://img.shields.io/badge/-stevejkang-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/stevejkang)](https://www.facebook.com/stevejkang)
-[![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](http://link.juneyoung.io/stevejkang.pgp)
+[![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](https://keybase.io/stevejkang/pgp_keys.asc)
 
 👋 Hello! I am a junior back-end developer, who working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service well aware of cloud infrastructure such as AWS.
 
