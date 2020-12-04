@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/-stevejkang-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/stevejkang)](https://www.facebook.com/stevejkang)
 [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](https://keybase.io/stevejkang/pgp_keys.asc)
 
-👋 Hello! I am a junior back-end developer, who working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service well aware of cloud infrastructure such as AWS.
+👋 Hello! I am a junior back-end developer, who is working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service with cloud infrastructure such as AWS. These days, I'm consistently thinking about which code or design is right for business. Rather than fancy codes, I tend to write codes that are easier to maintain and feel suitable for business logic.
 
 ### 💼 Career
 - Developer at [**TeamO2**](https://carmore.kr/): 2019.12 ~ Current
