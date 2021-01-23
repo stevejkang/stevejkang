@@ -19,7 +19,7 @@
 - PHP (intermediate)
 - Typescript (beginner)
 
-[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/stevejkang)
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=e28b21&icon_color=e28b21&text_color=fff&bg_color=151515)](https://github.com/stevejkang)
 [![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=dark)](https://github.com/stevejkang)
 
 > [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/stevejkang.svg)](https://github.com/stevejkang/stevejkang)
