@@ -20,6 +20,7 @@
 - Typescript (beginner)
 
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/stevejkang)
+[![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=dark)](https://github.com/stevejkang)
 
 > [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/stevejkang.svg)](https://github.com/stevejkang/stevejkang)
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang)](https://github.com/stevejkang/stevejkang)
