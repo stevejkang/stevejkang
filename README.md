@@ -21,7 +21,7 @@ Hello! I am a junior back-end developer, who is working at mobility start-up, Te
 
 ### 📊 Stats
 [![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm)](https://github.com/stevejkang)
-[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=C87960&icon_color=C87960&text_color=FFF&bg_color=3C4151&count_private=true&hide_rank=true)](https://github.com/stevejkang)
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=stevejkang&show_icons=true&title_color=E08467&icon_color=E08467&text_color=E3CEB2&bg_color=3C4151&count_private=true&hide_rank=true)](https://github.com/stevejkang)
 
 > [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/stevejkang.svg)](https://github.com/stevejkang/stevejkang)
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang)](https://github.com/stevejkang/stevejkang)
