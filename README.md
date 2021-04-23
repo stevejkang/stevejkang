@@ -9,15 +9,16 @@
 Hello! I am a junior back-end developer, who is working at mobility start-up, TeamO2. I experienced e-commerce, O2O platform services, and involved in both front-end and back-end. Also have done development and deployment of the production service with cloud infrastructure such as AWS. These days, I'm consistently thinking about which code or design is right for business. Rather than fancy codes, I tend to write codes that are easier to maintain and feel suitable for business logic.
 
 ### 💼 Career
-- Backend Developer at [**TeamO2**](https://carmore.kr/): 2019.12 ~ Current
+- Backend Developer at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): 2019.12 ~ Current
   - Alternative Military Service(Serving as Skilled Industrial Personnel): 2020.09 ~ Current
 - Development Manager at [**LOEKOREA**](http://loekorea.com/): 2019.06 ~ 2019.11
 - Backend Developer at [**HIPHOPER**](https://www.hiphoper.com/): 2018.12 ~ 2019.05
 
-### 💻 Languages
-- Node.js (advanced)
-- PHP (intermediate)
-- Typescript (beginner)
+### 💻 Skills
+- **Languages and Frameworks**: Node.js, PHP, TypeScript, Python, Vue.js
+- **Databases**: MySQL
+- **Infrastructure**: AWS, CI/CD(Travis, Circle CI, and Jenkins)
+- **Others**: Git, REST API
 
 ### 📊 Stats
 [![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm)](https://github.com/stevejkang)
