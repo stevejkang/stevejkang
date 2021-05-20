@@ -1,4 +1,4 @@
-# <img src="./assets/waving.gif" width="25px"> Steve Juneyoung Kang
+## <img src="./assets/waving.gif" width="25px"> Steve Juneyoung Kang — @stevejkang
 
 [![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/stevejkang)
 [![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-stevejkang/)](https://www.linkedin.com/in/iam-stevejkang/)
