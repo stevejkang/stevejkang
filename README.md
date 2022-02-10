@@ -7,10 +7,10 @@
 [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](https://keybase.io/stevejkang/pgp_keys.asc)
 
 ### Experience
-- Backend Developer at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 ~ Present
+- Backend Engineer at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 ~ Present
   - Alternative Military Service(Serving as Skilled Industrial Personnel): Sep 2020 ~ Present
-- Development Manager at [**LOEKOREA**](http://loekorea.com/): Jun 2019 ~ Nov 2019
-- Backend Developer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 ~ May 2019
+- Lead Engineer at [**LOEKOREA**](http://loekorea.com/): Jun 2019 ~ Nov 2019
+- Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 ~ May 2019
 
 [![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm)](https://github.com/stevejkang)
 
