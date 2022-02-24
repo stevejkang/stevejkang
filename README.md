@@ -16,3 +16,4 @@
 
 > [![Last Commit](https://img.shields.io/github/last-commit/stevejkang/stevejkang.svg)](https://github.com/stevejkang/stevejkang)
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits)](https://github.com/stevejkang/stevejkang)
+> [![Stars](https://img.shields.io/github/stars/stevejkang?color=orange&label=GitHub%20stars&logo=github&logo_color=orange)](https://github.com/stevejkang/stevejkang)
