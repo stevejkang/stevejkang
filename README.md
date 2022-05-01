@@ -6,11 +6,15 @@
 [![Facebook](https://img.shields.io/badge/-stevejkang-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/stevejkang)](https://www.facebook.com/stevejkang)
 [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](https://keybase.io/stevejkang/pgp_keys.asc)
 
-### Experience
+### Career Experience
 - Backend Engineer at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 ~ Present
   - Alternative Military Service(Serving as Skilled Industrial Personnel): Sep 2020 ~ Present
 - Lead Engineer at [**LOEKOREA**](http://loekorea.com/): Jun 2019 ~ Nov 2019
 - Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 ~ May 2019
+
+### Other Experience
+- Former Speaker at [**NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) 2018, 2019
+- Former Assistant Lecturer at [**YouthVoice**](https://youthvoice.or.kr/), [**Smilegate Foundation**](https://www.smilegatefoundation.org/)
 
 [![Steve's github streak](https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm)](https://github.com/stevejkang)
 
