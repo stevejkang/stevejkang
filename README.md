@@ -8,7 +8,7 @@
 
 ### Career Experience
 - Backend Engineer at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 ~ Present
-  - Alternative Military Service under the [Skilled Industrial Personnel](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90) program: Sep 2020 ~ Present
+  - Alternative Military Service under the [Skilled Industrial Personnel](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90) program: Sep 2020 ~ Aug 2022
 - Lead Engineer at [**LOEKOREA**](http://loekorea.com/): Jun 2019 ~ Nov 2019
 - Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 ~ May 2019
 
