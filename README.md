@@ -14,7 +14,7 @@
 
 ### Other Experience
 - Student at [**Woowa Bros**](https://www.woowahan.com/en)([**배달의민족**](https://en.wikipedia.org/wiki/Baedal_Minjok)) [**우아한테크캠프Pro 4기**](https://edu.nextstep.camp/c/lqsBs7x0)
-- Backend Coach & Code Reviewer at [**elise**](https://elice.io/) [**SW Enginner Track 2기**](https://kdt.elice.io/explore) ([**K-Digital Training**](https://www.moel.go.kr/policy/policyinfo/reclamarion/list13.do))
+- Backend Coach & Code Reviewer at [**elice**](https://elice.io/) [**SW Enginner Track 2기**](https://kdt.elice.io/explore) ([**K-Digital Training**](https://www.moel.go.kr/policy/policyinfo/reclamarion/list13.do))
 - Former Speaker at [**NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) 2018, 2019
 - Former Assistant Lecturer at [**YouthVoice**](https://youthvoice.or.kr/), [**Smilegate Foundation**](https://www.smilegatefoundation.org/)
 
