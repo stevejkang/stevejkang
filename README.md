@@ -1,6 +1,6 @@
 ## <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
 
-[![Status](https://img.shields.io/badge/status-unemployed-yellow.svg)](https://github.com/stevejkang)
+[![Status](https://img.shields.io/badge/status-employed-brightgreen.svg)](https://github.com/stevejkang)
 [![Linkedin](https://img.shields.io/badge/-iam--stevejkang-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iam-stevejkang/)](https://www.linkedin.com/in/iam-stevejkang/)
 [![Gmail](https://img.shields.io/badge/-iam@juneyoung.io-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:iam@juneyoung.io)](mailto:iam@juneyoung.io)
 [![Instagram](https://img.shields.io/badge/-stevejkang-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/stevejkang/)](https://www.instagram.com/stevejkang)
