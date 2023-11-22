@@ -7,6 +7,7 @@
 [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=313131&color=313131)](https://keybase.io/stevejkang/pgp_keys.asc)
 
 ### Career Experience
+- Backend Engineer at [**BBODEK**](https://www.bbodek.com/): Nov 2023 ~ Present
 - Backend Part Leader at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 ~ Oct 2023
   - ~Alternative Military Service under the [Skilled Industrial Personnel](https://ko.wikipedia.org/wiki/%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90) program: Sep 2020 ~ Aug 2022~ (Done 🎉)
 - Lead Engineer at [**LOEKOREA**](https://loekorea.com/): Jun 2019 ~ Nov 2019
