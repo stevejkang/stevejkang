@@ -24,3 +24,7 @@
 
 > [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevejkang%2Fstevejkang&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits)](https://github.com/stevejkang/stevejkang)
 > [![Stars](https://img.shields.io/github/stars/stevejkang?color=orange&label=GitHub%20stars&logo=github&logo_color=orange)](https://github.com/stevejkang/stevejkang)
+
+<p align="left">
+  <a href="https://www.credly.com/badges/9142a44a-3a53-42f5-b31a-0c307094371b/public_url"><img alt="Github Foundations Cerification Badge" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125"></a>
+</p>
