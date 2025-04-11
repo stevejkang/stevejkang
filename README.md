@@ -7,8 +7,9 @@
 - Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 - May 2019
 
 ### Other Experience
-- Backend Code Reviewer at [**NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) Web/Mobile 8th
-- Backend Code Reviewer & Coach at [**elice**](https://elice.io/) [**SW Enginner Track**](https://elice.training/track/sw) 2nd, 3rd, 9th ([**K-Digital Training**](https://www.moel.go.kr/policy/policyinfo/reclamarion/list13.do))
+- Code Reviewer/Mentor at [**codeit**](https://www.codeit.kr/) [**Sprint Node.js Backend**](https://sprint.codeit.kr/) 2nd
+- Code Reviewer/Mentor at [**NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) Web/Mobile 8th
+- Code Reviewer/Mentor at [**elice**](https://elice.io/) [**SW Enginner Track**](https://elice.training/track/sw) 2nd, 3rd, 9th
 - Former Speaker at [**NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) 2018, 2019
 - Former Assistant Lecturer at [**YouthVoice**](https://youthvoice.or.kr/), [**Smilegate Foundation**](https://www.smilegatefoundation.org/)
 
