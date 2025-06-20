@@ -3,7 +3,7 @@
 ### Career Experience
 - Platform Team Lead at [**BBODEK**](https://www.bbodek.com/): Nov 2023 - Present
 - Backend Part Lead at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 - Oct 2023
-- Lead Engineer at [**LOEKOREA**](https://loekorea.com/): Jun 2019 - Nov 2019
+- Lead Engineer at LOEKOREA: Jun 2019 - Nov 2019
 - Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 - May 2019
 
 ### Other Experience
