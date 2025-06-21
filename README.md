@@ -21,5 +21,6 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/9142a44a-3a53-42f5-b31a-0c307094371b/public_url"><img alt="Github Foundations Cerification Badge" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="125" height="125"></a>
-  <!--<a href="https://www.credly.com/badges/1fd86d53-72ee-4792-b6b8-6aa83aa8d732/public_url"><img alt="AWS Certified Cloud Practitioner Badge" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125"></a>-->
+  <a href="https://www.credly.com/badges/1fd86d53-72ee-4792-b6b8-6aa83aa8d732/public_url"><img alt="AWS Certified Cloud Practitioner Badge" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="125" height="125"></a>
+  <a href="https://www.credly.com/badges/9e4c0731-f536-4f48-8364-411bc738e1b2/public_url"><img alt="AWS Certified Solutions Architect - Associate Badge" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="125" height="125"></a>
 </p>
