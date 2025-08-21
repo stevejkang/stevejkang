@@ -1,7 +1,7 @@
 ## <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
 
 ### Career Experience
-- Platform Team Lead at [**BBODEK**](https://www.bbodek.com/): Nov 2023 - Present
+- Platform Team Lead at [**BBODEK**](https://www.bbodek.com/): Nov 2023 - Aug 2025
 - Backend Part Lead at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 - Oct 2023
 - Lead Engineer at LOEKOREA: Jun 2019 - Nov 2019
 - Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 - May 2019
