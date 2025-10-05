@@ -1,4 +1,4 @@
-## <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
+## <img src="https://github.com/images/mona-happy.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
 
 ### Current
 - Infra Engineer, Validator [**@Inevitable**](https://inevitable.team) <sub><sup>Jul 2022 - Present</sup></sub>
