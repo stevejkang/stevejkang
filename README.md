@@ -1,17 +1,20 @@
 ## <img src="https://github.githubassets.com/images/mona-loading-default.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
 
-### Career Experience
-- Platform Team Lead at [**BBODEK**](https://www.bbodek.com/): Nov 2023 - Aug 2025
-- Backend Part Lead at [**TeamO2**](https://teamo2.kr/)([**Carmore**](https://carmore.kr)): Dec 2019 - Oct 2023
-- Lead Engineer at LOEKOREA: Jun 2019 - Nov 2019
-- Backend Engineer at [**HIPHOPER**](https://www.hiphoper.com/): Dec 2018 - May 2019
+### Current
+- Infra Engineer, Validator [**@Inevitable**](https://inevitable.team) <sub><sup>Jul 2022 - Present</sup></sub>
 
-### Other Experience
-- Code Reviewer/Mentor at [**codeit**](https://www.codeit.kr/) [**Sprint Node.js Backend**](https://sprint.codeit.kr/) 2nd
-- Code Reviewer/Mentor at [**NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) Web/Mobile 8th, 10th
-- Code Reviewer/Mentor at [**elice**](https://elice.io/) [**SW Enginner Track**](https://elice.training/track/sw) 2nd, 3rd, 9th
-- Former Speaker at [**NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) 2018, 2019
-- Former Assistant Lecturer at [**YouthVoice**](https://youthvoice.or.kr/), [**Smilegate Foundation**](https://www.smilegatefoundation.org/)
+### Previous Work Experience
+- Platform Team Lead [**@BBODEK**](https://www.bbodek.com/) <sub><sup>Nov 2023 - Aug 2025</sup></sub>  
+- Backend Part Lead [**@TeamO2**](https://teamo2.kr/)([**carmore.kr**](https://carmore.kr)) <sub><sup>Dec 2019 - Oct 2023</sup></sub>  
+- Lead Engineer @LOEKOREA <sub><sup>Jun 2019 - Nov 2019</sup></sub>  
+- Backend Engineer at [**@HIPHOPER**](https://www.hiphoper.com/) <sub><sup>Dec 2018 - May 2019</sup></sub>  
+
+### Additional Experience
+- Code Reviewer/Mentor [**@NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) <sub><sup>Web/Mobile 8th, 10th</sup></sub>
+- Code Reviewer/Mentor [**@codeit**](https://www.codeit.kr/) [**Sprint Node.js Backend**](https://sprint.codeit.kr/) <sub><sup>2nd</sup></sub>
+- Code Reviewer/Mentor [**@elice**](https://elice.io/) [**SW Enginner Track**](https://elice.training/track/sw) <sub><sup>2nd, 3rd, 9th</sup></sub>
+- Former Speaker [**@NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) <sub><sup>2018, 2019</sup></sub>
+- Former Assistant Lecturer [**@YouthVoice**](https://youthvoice.or.kr/), [**@Smilegate Foundation**](https://www.smilegatefoundation.org/)
 
 <!-- <img align="center" height="125px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Steve's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevejkang&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> <img align="center" height="125px" alt="Steve's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=stevejkang"> -->
 
