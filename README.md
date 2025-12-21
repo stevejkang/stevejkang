@@ -1,7 +1,8 @@
 ## <img src="https://github.com/images/mona-happy.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
 
 ### Current
-- Infra Engineer, Validator [**@Inevitable**](https://inevitable.team) <sub><sup>Jul 2022 - Present</sup></sub>
+- Node.js [**@Wanted Lab**](https://www.wanted.co.kr) <sub><sup>Sep 2025 - Present</sup></sub>
+- Infra, Validator [**@Inevitable**](https://inevitable.team) <sub><sup>Jul 2022 - Present</sup></sub>
 
 ### Previous Work Experience
 - Platform Team Lead [**@BBODEK**](https://www.bbodek.com/) <sub><sup>Nov 2023 - Aug 2025</sup></sub>  
