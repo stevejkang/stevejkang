@@ -1,8 +1,15 @@
 ## <img src="https://github.com/images/mona-happy.gif" height="50px" width="50px">&nbsp; Steve Juneyoung Kang — @stevejkang
+[![Stars](https://img.shields.io/github/stars/stevejkang?logo=github&style=flat&color=AAAAAA)](https://github.com/stevejkang/stevejkang)
+[![wakatime](https://wakatime.com/badge/user/69cc74df-4e87-4c02-8e13-77d49dc4052b.svg?labelColor=555555&color=AAAAAA)](https://wakatime.com/@69cc74df-4e87-4c02-8e13-77d49dc4052b)
+[![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=555555&color=AAAAAA)](https://keybase.io/stevejkang/pgp_keys.asc)
 
 ### Current
 - Node.js [**@Wanted Lab**](https://www.wanted.co.kr) <sub><sup>Sep 2025 - Present</sup></sub>
 - Infra, Validator [**@Inevitable**](https://inevitable.team) <sub><sup>Jul 2022 - Present</sup></sub>
+
+<details>
+
+<summary>Previous Work Experience</summary>
 
 ### Previous Work Experience
 - Platform Team Lead [**@BBODEK**](https://www.bbodek.com/) <sub><sup>Nov 2023 - Aug 2025</sup></sub>  
@@ -17,11 +24,9 @@
 - Former Speaker [**@NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) <sub><sup>2018, 2019</sup></sub>
 - Former Assistant Lecturer [**@YouthVoice**](https://youthvoice.or.kr/), [**@Smilegate Foundation**](https://www.smilegatefoundation.org/)
 
-<!-- <img align="center" height="125px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Steve's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevejkang&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> <img align="center" height="125px" alt="Steve's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=stevejkang"> -->
+</details>
 
-> [![Stars](https://img.shields.io/github/stars/stevejkang?logo=github&style=flat&color=AAAAAA)](https://github.com/stevejkang/stevejkang)
-> [![wakatime](https://wakatime.com/badge/user/69cc74df-4e87-4c02-8e13-77d49dc4052b.svg?labelColor=555555&color=AAAAAA)](https://wakatime.com/@69cc74df-4e87-4c02-8e13-77d49dc4052b)
-> [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=555555&color=AAAAAA)](https://keybase.io/stevejkang/pgp_keys.asc)
+<!-- <img align="center" height="125px" alt="Steve's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=stevejkang&theme=calm&hide_border=true"> <img align="center" height="125px" alt="Steve's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevejkang&theme=calm&layout=compact&hide_border=true&hide=scss,vue,html&langs_count=8"> <img align="center" height="125px" alt="Steve's GitHub Stats" src="https://github-contribution-stats.vercel.app/api/?username=stevejkang"> -->
 
 <p align="left">
   <a href="https://www.credly.com/badges/9142a44a-3a53-42f5-b31a-0c307094371b/public_url"><img alt="Github Foundations Cerification Badge" src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" height="100"></a>
