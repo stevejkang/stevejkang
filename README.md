@@ -2,6 +2,7 @@
 [![Stars](https://img.shields.io/github/stars/stevejkang?logo=github&style=flat&color=AAAAAA)](https://github.com/stevejkang/stevejkang)
 [![wakatime](https://wakatime.com/badge/user/69cc74df-4e87-4c02-8e13-77d49dc4052b.svg?labelColor=555555&color=AAAAAA)](https://wakatime.com/@69cc74df-4e87-4c02-8e13-77d49dc4052b)
 [![pgp](https://img.shields.io/keybase/pgp/stevejkang?style=flat&labelColor=555555&color=AAAAAA)](https://keybase.io/stevejkang/pgp_keys.asc)
+[![ssh](https://img.shields.io/badge/ssh-public_key-AAAAAA?style=flat&labelColor=555555)](https://github.com/stevejkang.keys)
 
 ### Current
 - Node.js [**@Wanted Lab**](https://www.wanted.co.kr) <sub><sup>Sep 2025 - Present</sup></sub>
