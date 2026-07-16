@@ -19,11 +19,11 @@
 - Backend Engineer at [**@HIPHOPER**](https://www.hiphoper.com/) <sub><sup>Dec 2018 - May 2019</sup></sub>  
 
 ### Additional Experience
-- Code Reviewer/Mentor [**@NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) <sub><sup>Web/Mobile 8th, 10th</sup></sub>
-- Code Reviewer/Mentor [**@codeit**](https://www.codeit.kr/) [**Sprint Node.js Backend**](https://sprint.codeit.kr/) <sub><sup>2nd</sup></sub>
-- Code Reviewer/Mentor [**@elice**](https://elice.io/) [**SW Enginner Track**](https://elice.training/track/sw) <sub><sup>2nd, 3rd, 9th</sup></sub>
-- Former Speaker [**@NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) <sub><sup>2018, 2019</sup></sub>
-- Former Assistant Lecturer [**@YouthVoice**](https://youthvoice.or.kr/), [**@Smilegate Foundation**](https://www.smilegatefoundation.org/)
+- Code Reviewer/Mentor [**@NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) <sub><sup>Web/Mobile Cohort 8, 10</sup></sub>
+- Code Reviewer/Mentor [**@codeit**](https://www.codeit.kr/) [**Sprint Node.js Backend**](https://sprint.codeit.kr/) <sub><sup>Cohort 2</sup></sub>
+- Code Reviewer/Mentor [**@elice**](https://elice.io/) [**SW Engineer Track**](https://elice.training/track/sw) <sub><sup>Cohort 2, 3, 9</sup></sub>
+- Speaker [**@NAVER Connect Foundation**](https://connect.or.kr/) [**Software Edu Fest**](https://sef.connect.or.kr/) <sub><sup>2018, 2019</sup></sub>
+- Assistant Lecturer, have worked with [**@YouthVoice**](https://youthvoice.or.kr/), [**@Smilegate Foundation**](https://www.smilegatefoundation.org/), [**@H-Jumpschool**](https://h-jumpschool.kr/) <sub><sup>since 2018</sup></sub>
 
 </details>
 
