@@ -13,10 +13,10 @@
 <summary>Previous Work Experience</summary>
 
 ### Previous Work Experience
-- Platform Team Lead [**@BBODEK**](https://www.bbodek.com/) <sub><sup>Nov 2023 - Aug 2025</sup></sub>  
-- Backend Part Lead [**@TeamO2**](https://teamo2.kr/)([**carmore.kr**](https://carmore.kr)) <sub><sup>Dec 2019 - Oct 2023</sup></sub>  
-- Lead Engineer @LOEKOREA <sub><sup>Jun 2019 - Nov 2019</sup></sub>  
-- Backend Engineer at [**@HIPHOPER**](https://www.hiphoper.com/) <sub><sup>Dec 2018 - May 2019</sup></sub>  
+- Lead, Platform Team [**@BBODEK**](https://www.bbodek.com/) <sub><sup>Nov 2023 - Aug 2025</sup></sub>  
+- Part Lead, Backend Team @TeamO2([**carmore.kr**](https://carmore.kr)) <sub><sup>Dec 2019 - Oct 2023</sup></sub>  
+- Engineer @LOEKOREA <sub><sup>Jun 2019 - Nov 2019</sup></sub>  
+- Engineer [**@HIPHOPER**](https://www.hiphoper.com/) <sub><sup>Dec 2018 - May 2019</sup></sub>  
 
 ### Additional Experience
 - Code Reviewer/Mentor [**@NAVER Connect Foundation**](https://connect.or.kr/) [**boostcamp**](https://boostcamp.connect.or.kr/) <sub><sup>Web/Mobile Cohort 8, 10</sup></sub>
